@@ -1,0 +1,3 @@
+include ':talkbacklabs-feedback'
+include ':app'
+rootProject.name = "Talkback Feedback Demo"
